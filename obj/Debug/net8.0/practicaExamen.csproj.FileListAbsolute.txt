@@ -1,0 +1,14 @@
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\bin\Debug\net8.0\practicaExamen.exe
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\bin\Debug\net8.0\practicaExamen.deps.json
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\bin\Debug\net8.0\practicaExamen.runtimeconfig.json
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\bin\Debug\net8.0\practicaExamen.dll
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\bin\Debug\net8.0\practicaExamen.pdb
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\obj\Debug\net8.0\practicaExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\obj\Debug\net8.0\practicaExamen.AssemblyInfoInputs.cache
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\obj\Debug\net8.0\practicaExamen.AssemblyInfo.cs
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\obj\Debug\net8.0\practicaExamen.csproj.CoreCompileInputs.cache
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\obj\Debug\net8.0\practicaExamen.dll
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\obj\Debug\net8.0\refint\practicaExamen.dll
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\obj\Debug\net8.0\practicaExamen.pdb
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\obj\Debug\net8.0\practicaExamen.genruntimeconfig.cache
+C:\Users\AlumGS\Desktop\2º trim\1 - Programacion\Proyectos C# VS\practica Examen 1er trimestre\practicaExamen\obj\Debug\net8.0\ref\practicaExamen.dll
